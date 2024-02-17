@@ -1,6 +1,6 @@
-USE [Helper]
+USE [Utility]
 GO
-/****** Object:  UserDefinedFunction [dbo].[udf_CalcDist2LatLong]    Script Date: 2/17/2024 4:27:54 PM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON

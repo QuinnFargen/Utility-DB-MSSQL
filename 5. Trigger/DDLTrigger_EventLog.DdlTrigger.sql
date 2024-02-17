@@ -1,6 +1,6 @@
-USE [Helper]
+USE [Utility]
 GO
-/****** Object:  DdlTrigger [DDLTrigger_EventLog]    Script Date: 2/17/2024 4:27:54 PM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
